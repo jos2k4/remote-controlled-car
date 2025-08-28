@@ -1,4 +1,2 @@
 # remote-controlled-car
-Sourcecode welches im Rahmen eines Uni Projektes enstanden ist, welches ermöglicht mit Hilfe von Ardunio und RemoteXY ein Auto fernzusteuern und Bälle in einem Spiel zu schießen.
-
-Der Code wurde in der Arduino IDE mit der RemoteXY Bibliothek geschrieben. 
+Arduino + RemoteXY controlled RC car; smartphone control and ball launcher. Built as a university project. C++
